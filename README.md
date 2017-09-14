@@ -10,7 +10,6 @@ El dump ha sido creado con la herramienta `wget` y los links convertidos automá
 Puedes encontrar otro dump en [https://github.com/robertgarrigos/referendum.cat](https://github.com/robertgarrigos/referendum.cat).
 
 ---
-Este mirror se encuentra activo en [http://ref1oct.ml/](http://ref1oct.ml/).
 
 ### Lista de mirrors
 
