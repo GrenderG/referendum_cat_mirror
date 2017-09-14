@@ -20,6 +20,7 @@ Puedes encontrar otro dump en [https://github.com/robertgarrigos/referendum.cat]
 * http://www.referendum.ninja/
 * http://www.referendum.love/
 * http://www.referendum.legal/
+* http://www.referendum.fyi/
 * http://alerta.cat/www.referendum.cat/
 * http://referendum.pirata.cat
 * http://referendum.pau.fm/
@@ -30,4 +31,5 @@ Puedes encontrar otro dump en [https://github.com/robertgarrigos/referendum.cat]
 * http://ref1oct.ml/
 * http://ref1oct.net/
 * http://ref1oct.org/
+* http://referendum.zalo.nyc/
 
