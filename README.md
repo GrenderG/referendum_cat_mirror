@@ -7,5 +7,8 @@ Actualmente existen otros dominios funcionales, como [www.ref1oct.cat](http://ww
 
 El dump ha sido creado con la herramienta `wget` y los links convertidos automáticamente, por lo que es probable que pueda existir algo que no funcione completamente, aunque por ahora no lo he encontrado.
 
+Puedes encontrar otro dump, así como una lista de mirrors en [https://github.com/robertgarrigos/referendum.cat](https://github.com/robertgarrigos/referendum.cat).
+
 ---
 Este mirror se encuentra activo en [http://ref1oct.ml/](http://ref1oct.ml/).
+
