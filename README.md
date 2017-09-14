@@ -20,11 +20,12 @@ Puedes encontrar otro dump en [https://github.com/robertgarrigos/referendum.cat]
 * http://www.referendum.love/
 * http://www.referendum.legal/
 * http://alerta.cat/www.referendum.cat/
-* https://www.ref1oct.eu/
 * http://referendum.pirata.cat
 * http://referendum.pau.fm/
 * http://www.referendumcat.eu/
 * http://nigeon.github.io/referendum.cat/
+* https://www.ref1oct.eu/
+* https://www.ref1oct.cat/
 * http://ref1oct.ml/
 * http://ref1oct.net/
 * http://ref1oct.org/
