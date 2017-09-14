@@ -13,6 +13,7 @@ Puedes encontrar otro dump en [https://github.com/robertgarrigos/referendum.cat]
 
 ### Lista de mirrors
 
+* https://gateway.ipfs.io/ipfs/QmQZzfs7LjkEnmG3zU92YF7ViCcuCXkNokuYoiNe6pKvDZ/
 * https://cat.referendum.barcelona/
 * http://referendum.enricpineda.cat/
 * http://www.referendum.party/
