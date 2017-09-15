@@ -28,7 +28,6 @@ Puedes encontrar otro dump en [https://github.com/robertgarrigos/referendum.cat]
 * http://nigeon.github.io/referendum.cat/
 * https://www.ref1oct.eu/
 * https://www.ref1oct.cat/
-* http://ref1oct.ml/
 * http://ref1oct.net/
 * http://ref1oct.org/
 * http://referendum.zalo.nyc/
