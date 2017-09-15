@@ -28,6 +28,7 @@ Puedes encontrar otro dump en [https://github.com/robertgarrigos/referendum.cat]
 * http://www.referendum.works/
 * http://www.referendum.observer/
 * http://www.referendum.fun/
+* http://www.referendum.pro/
 * http://alerta.cat/www.referendum.cat/
 * http://referendum.pirata.cat
 * http://referendum.pau.fm/
