@@ -31,4 +31,7 @@ Puedes encontrar otro dump en [https://github.com/robertgarrigos/referendum.cat]
 * http://ref1oct.net/
 * http://ref1oct.org/
 * http://referendum.zalo.nyc/
+* https://aniol.github.io/referendum.cat/
+* http://referendumcat.cat/
+* https://holadictadura.github.io/referendum_catalunya/
 
