@@ -30,11 +30,13 @@ Puedes encontrar otro dump en [https://github.com/robertgarrigos/referendum.cat]
 * http://www.referendum.fun/
 * http://www.referendum.pro/
 * http://www.referendum.site/
+* http://www.referendum.one/
 * http://alerta.cat/www.referendum.cat/
 * http://referendum.pirata.cat
 * http://referendum.pau.fm/
 * http://www.referendumcat.eu/
 * http://nigeon.github.io/referendum.cat/
+* http://wuyingren.github.io/referendum.cat/
 * https://www.ref1oct.eu/
 * https://www.ref1oct.cat/
 * http://ref1oct.net/
@@ -42,7 +44,8 @@ Puedes encontrar otro dump en [https://github.com/robertgarrigos/referendum.cat]
 * http://referendum.zalo.nyc/
 * https://aniol.github.io/referendum.cat/
 * http://referendumcat.cat/
-* http://🗳🗳🗳🗳.ws
+* http://🗳🗳🗳🗳.ws/
 * http://mmoreram.com/referendum_cat_mirror/
+* http://referendumcatalunya.eu/
 
 
