@@ -47,5 +47,10 @@ Puedes encontrar otro dump en [https://github.com/robertgarrigos/referendum.cat]
 * http://🗳🗳🗳🗳.ws/
 * http://mmoreram.com/referendum_cat_mirror/
 * http://referendumcatalunya.eu/
+* http://referendum.juanma.xxx
+* http://referendum.juanma.xyz
+* http://referendum.bulbasaur.xyz
+* http://referendum.charmander.xyz
+* http://referendum.squirtle.xyz
 
 
