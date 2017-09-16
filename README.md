@@ -42,7 +42,6 @@ Puedes encontrar otro dump en [https://github.com/robertgarrigos/referendum.cat]
 * http://referendum.zalo.nyc/
 * https://aniol.github.io/referendum.cat/
 * http://referendumcat.cat/
-* https://holadictadura.github.io/referendum_catalunya/
 * http://🗳🗳🗳🗳.ws
 * http://mmoreram.com/referendum_cat_mirror/
 
