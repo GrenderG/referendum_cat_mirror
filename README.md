@@ -56,4 +56,5 @@ Puedes encontrar otro dump en [https://github.com/robertgarrigos/referendum.cat]
 * https://ca.rles-tub.io./oct1_referendum_catalonia/
 * http://7jwbvjhh4on2s53l.onion.link/
 * http://referendum.ilogic.io
+* http://xn--referndum-43a.net/
 
