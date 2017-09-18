@@ -55,8 +55,6 @@ El dump ha sido creado con la herramienta `wget` y los links convertidos automá
 * http://7jwbvjhh4on2s53l.onion.link/
 * http://referendum.ilogic.io
 * http://xn--referndum-43a.net/
-* http://referendum.jcnistal.es/
-* https://nikeyes.github.io/referendum_cat_mirror/index.html
 * http://ref1cat.tk   
 * http://ref1cat.ml   
 * http://ref1cat.ga    
