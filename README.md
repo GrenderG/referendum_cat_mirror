@@ -57,3 +57,8 @@ El dump ha sido creado con la herramienta `wget` y los links convertidos automá
 * http://xn--referndum-43a.net/
 * http://referendum.jcnistal.es/
 * https://nikeyes.github.io/referendum_cat_mirror/index.html
+* http://ref1cat.tk   
+* http://ref1cat.ml   
+* http://ref1cat.ga    
+* http://ref1cat.cf
+* http://ref1cat.gq
