@@ -13,6 +13,7 @@ El dump ha sido creado con la herramienta `wget` y los links convertidos automá
 
 * https://gateway.ipfs.io/ipfs/QmQZzfs7LjkEnmG3zU92YF7ViCcuCXkNokuYoiNe6pKvDZ/
 * https://cat.referendum.barcelona/
+* http://referendum1o.pirata.cat/
 * http://referendum.enricpineda.cat/
 * http://www.referendum.legal/
 * http://www.referendum.party/
