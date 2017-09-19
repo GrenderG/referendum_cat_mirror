@@ -12,36 +12,36 @@ El dump ha sido creado con la herramienta `wget` y los links convertidos automá
 ### Lista de mirrors
 
 * https://gateway.ipfs.io/ipfs/QmQZzfs7LjkEnmG3zU92YF7ViCcuCXkNokuYoiNe6pKvDZ/
-* https://cat.referendum.barcelona/
+* [BLOQUEADO] https://cat.referendum.barcelona/
 * http://referendum1o.pirata.cat/
-* http://referendum.enricpineda.cat/
-* http://www.referendum.legal/
-* http://www.referendum.party/
-* http://www.referendum.ninja/
-* http://www.referendum.love/
-* http://www.referendum.fyi/
-* http://www.referendum.rip/
-* http://www.referendum.soy/
-* http://www.referendum.lol/
-* http://www.referendum.voto/
-* http://www.referendum.works/
-* http://www.referendum.observer/
+* [BLOQUEADO] http://referendum.enricpineda.cat/
+* [BLOQUEADO] http://www.referendum.legal/
+* [BLOQUEADO] http://www.referendum.party/
+* [BLOQUEADO] http://www.referendum.ninja/
+* [BLOQUEADO] http://www.referendum.love/
+* [BLOQUEADO] http://www.referendum.fyi/
+* [BLOQUEADO] http://www.referendum.rip/
+* [BLOQUEADO] http://www.referendum.soy/
+* [BLOQUEADO] http://www.referendum.lol/
+* [BLOQUEADO] http://www.referendum.voto/
+* [BLOQUEADO] http://www.referendum.works/
+* [BLOQUEADO] http://www.referendum.observer/
 * http://www.referendum.fun/
 * http://www.referendum.pro/
 * http://www.referendum.site/
 * http://www.referendum.one/
-* http://alerta.cat/www.referendum.cat/
-* http://referendum.pirata.cat
-* http://referendum.pau.fm/
+* [BLOQUEADO] http://alerta.cat/www.referendum.cat/
+* [BLOQUEADO] http://referendum.pirata.cat
+* [BLOQUEADO] http://referendum.pau.fm/
 * http://www.referendumcat.eu/
 * http://nigeon.github.io/referendum.cat/
 * http://wuyingren.github.io/referendum.cat/
 * https://www.ref1oct.eu/
-* https://www.ref1oct.cat/
-* http://ref1oct.net/
-* http://ref1oct.org/
-* http://referendum.zalo.nyc/
-* https://aniol.github.io/referendum.cat/
+* [BLOQUEADO] https://www.ref1oct.cat/
+* [BLOQUEADO] http://ref1oct.net/
+* [BLOQUEADO] http://ref1oct.org/
+* [BLOQUEADO] http://referendum.zalo.nyc/
+* [BLOQUEADO] https://aniol.github.io/referendum.cat/
 * http://referendumcat.cat/
 * http://🗳🗳🗳🗳.ws/
 * http://mmoreram.com/referendum_cat_mirror/
