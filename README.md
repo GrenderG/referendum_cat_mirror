@@ -16,7 +16,7 @@ MIRROR EN TOR: http://referykkmr36j4hs.onion/mirror/www.ref1oct.eu/
 * https://gateway.ipfs.io/ipfs/QmQZzfs7LjkEnmG3zU92YF7ViCcuCXkNokuYoiNe6pKvDZ/
 * [BLOQUEADO] https://cat.referendum.barcelona/
 * http://referendum1o.pirata.cat/
-* [BLOQUEADO] http://referendum.enricpineda.cat/
+* http://referendum.enricpineda.cat/
 * [BLOQUEADO] http://www.referendum.legal/
 * [BLOQUEADO] http://www.referendum.party/
 * [BLOQUEADO] http://www.referendum.ninja/
