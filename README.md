@@ -14,10 +14,10 @@ El dump ha sido creado con la herramienta `wget` y los links convertidos automá
 * https://gateway.ipfs.io/ipfs/QmQZzfs7LjkEnmG3zU92YF7ViCcuCXkNokuYoiNe6pKvDZ/
 * https://cat.referendum.barcelona/
 * http://referendum.enricpineda.cat/
+* http://www.referendum.legal/
 * http://www.referendum.party/
 * http://www.referendum.ninja/
 * http://www.referendum.love/
-* http://www.referendum.legal/
 * http://www.referendum.fyi/
 * http://www.referendum.rip/
 * http://www.referendum.soy/
@@ -60,3 +60,5 @@ El dump ha sido creado con la herramienta `wget` y los links convertidos automá
 * http://ref1cat.ga    
 * http://ref1cat.cf
 * http://ref1cat.gq
+* http://www.dinsairbnb.cat/ref1oct/
+* http://referendum.forabits.com/
