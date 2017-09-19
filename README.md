@@ -35,8 +35,8 @@ MIRROR EN TOR: http://referykkmr36j4hs.onion/mirror/www.ref1oct.eu/
 * [BLOQUEADO] http://alerta.cat/www.referendum.cat/
 * [BLOQUEADO] http://referendum.pirata.cat
 * [BLOQUEADO] http://referendum.pau.fm/
-* http://www.referendumcat.eu/
-* http://nigeon.github.io/referendum.cat/
+* [BLOQUEADO] http://www.referendumcat.eu/
+* [BLOQUEADO] http://nigeon.github.io/referendum.cat/
 * http://wuyingren.github.io/referendum.cat/
 * [BLOQUEADO] https://www.ref1oct.eu/
 * [BLOQUEADO] https://www.ref1oct.cat/
