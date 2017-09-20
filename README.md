@@ -67,4 +67,4 @@ MIRROR EN TOR: http://referykkmr36j4hs.onion/mirror/www.ref1oct.eu/
 * http://www.dinsairbnb.cat/ref1oct/
 * http://referendum.forabits.com/
 * http://referendum.mabelrodriguez.cat/
-* https://independenciaCAT.github.io/referendum_cat_mirror/
+* https://independenciaCAT.github.io/referendum_cat_mirror/index.html
