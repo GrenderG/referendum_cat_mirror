@@ -1,0 +1,104 @@
+/* style the menu navigation wrap  */
+#menu-wrap {
+  background-color: #eee;
+  /* style the top level hover */
+  /* menu sections with children */
+  /* style sections from the dropdown menus */
+}
+#menu-wrap ul {
+  background-color: #5798d0;
+  /* style the links for the top level */
+}
+#menu-wrap ul a,
+#menu-wrap ul a:visited {
+  text-decoration: none;
+  color: #000;
+  border-right: 1px solid #fff;
+}
+#menu-wrap ul li:hover a,
+#menu-wrap ul a:focus,
+#menu-wrap ul a:active {
+  background-color: #5798D0;
+  color: #000;
+}
+#menu-wrap ul ul a {
+  /* style the second level hover */
+}
+#menu-wrap ul ul a, #menu-wrap ul ul a:visited {
+  color: #000;
+}
+#menu-wrap ul ul a:hover {
+  background: #B3D9FF;
+}
+#menu-wrap ul ul :hover > a {
+  background: #B3D9FF;
+}
+#menu-wrap ul ul li a.selected {
+  background-color: #D0D8F0;
+  color: #004D99;
+}
+#menu-wrap a:hover,
+#menu-wrap ul ul a:hover {
+  color: #000;
+  background: #5798d0;
+}
+#menu-wrap :hover > a,
+#menu-wrap ul ul :hover > a {
+  color: #000;
+  background: #B3D9FF;
+}
+#menu-wrap a.trigger, #menu-wrap a.trigger:hover, #menu-wrap a.trigger:visited {
+  background-image: url(../img/cms-nav-dark-s.gif);
+  background-repeat: no-repeat;
+  background-position: right center;
+}
+#menu-wrap li {
+  /* style selected page in the top menu */
+  /* style selected subpage in the top menu */
+}
+#menu-wrap li.section {
+  color: #fff;
+  background-color: #4283b7;
+  font-weight: bold;
+}
+#menu-wrap li.selected_page {
+  color: #004D99;
+  background-color: #5798d0;
+}
+#menu-wrap li.selected_subpage {
+  color: #004D99;
+  background-color: #B3D9FF;
+}
+#menu-wrap li.selected_subpage a,
+#menu-wrap li.selected_subpage a:visited {
+  background-color: #B3D9FF;
+}
+
+/* style sidebar navigation */
+#sidebar-navigation h4 {
+  /* style sidebar title */
+}
+
+#sidebar-navigation .cms-nav-sidebar a, #sidebar-navigation .cms-nav-sidebar a:visited {
+  /* links */
+}
+
+#sidebar-navigation .cms-nav-sidebar a:hover, #sidebar-navigation .cms-nav-sidebar a:focus, #sidebar-navigation .cms-nav-sidebar a:active {
+  /* links hover */
+}
+
+.cms-nav-sidebar .selected_page_side {
+  /* selected item in side navigation */
+}
+
+.cms-nav-bc a, .cms-nav-bc a:visited {
+  /* trail navigation links */
+}
+
+.cms-nav-bc a:hover, .cms-nav-bc a:focus, .cms-nav-bc a:active {
+  /* trail navigation links hover */
+}
+
+.cms-nav-bc {
+  /* trail navigation links hover - not linked */
+}

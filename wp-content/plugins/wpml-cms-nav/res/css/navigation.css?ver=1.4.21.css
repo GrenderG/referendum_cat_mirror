@@ -1,0 +1,15 @@
+.wpml_cms_navigation .wpml_table th{    
+    background-color: #DFDFDF;
+    border-bottom:solid 1px #fff;
+    width:200px;  
+    border-collapse: collapse;  
+} 
+.wpml_cms_navigation .wpml_table tfoot th{
+    border-bottom:none;    
+    background: none;
+    background-color: #DFDFDF;
+}
+
+#icl_cat_menu_contents input{
+    margin-bottom: 4px;
+}
