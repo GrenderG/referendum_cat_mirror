@@ -11,7 +11,7 @@ El dump ha sido creado con la herramienta `wget` y los links convertidos automá
 
 ### Lista de mirrors
 
-MIRROR EN TOR: http://referykkmr36j4hs.onion/mirror/www.ref1oct.eu/
+MIRROR EN TOR: http://referykkmr36j4hs.onion/mirror/www.ref1oct.eu/<br>
 APP INFORMATIVA: https://play.google.com/store/apps/details?id=cat.referendum
 
 * https://gateway.ipfs.io/ipfs/QmQZzfs7LjkEnmG3zU92YF7ViCcuCXkNokuYoiNe6pKvDZ/
