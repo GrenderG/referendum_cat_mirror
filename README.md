@@ -32,4 +32,5 @@ Puedes encontrar otro dump en [https://github.com/robertgarrigos/referendum.cat]
 * http://ref1oct.net/
 * http://ref1oct.org/
 * http://referendum.zalo.nyc/
+* http://october1.azurewebsites.net/
 
