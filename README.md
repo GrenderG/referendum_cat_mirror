@@ -68,3 +68,4 @@ MIRROR EN TOR: http://referykkmr36j4hs.onion/mirror/www.ref1oct.eu/
 * http://referendum.forabits.com/
 * http://referendum.mabelrodriguez.cat/
 * https://independenciaCAT.github.io/referendum_cat_mirror/index.html
+* http://www.marianorajoy.cat
