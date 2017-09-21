@@ -12,6 +12,7 @@ El dump ha sido creado con la herramienta `wget` y los links convertidos automá
 ### Lista de mirrors
 
 MIRROR EN TOR: http://referykkmr36j4hs.onion/mirror/www.ref1oct.eu/
+APP INFORMATIVA: https://play.google.com/store/apps/details?id=cat.referendum
 
 * https://gateway.ipfs.io/ipfs/QmQZzfs7LjkEnmG3zU92YF7ViCcuCXkNokuYoiNe6pKvDZ/
 * http://votemperserlliures.com
@@ -68,4 +69,5 @@ MIRROR EN TOR: http://referykkmr36j4hs.onion/mirror/www.ref1oct.eu/
 * http://referendum.forabits.com/
 * http://referendum.mabelrodriguez.cat/
 * https://independenciaCAT.github.io/referendum_cat_mirror/index.html
-* https://play.google.com/store/apps/details?id=cat.referendum
+* http://www.marianorajoy.cat
+* http://october1.azurewebsites.net/
