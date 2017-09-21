@@ -13,8 +13,8 @@ El dump ha sido creado con la herramienta `wget` y los links convertidos automá
 
 * MIRROR EN TOR: http://referykkmr36j4hs.onion/mirror/www.ref1oct.eu/<br>
 * APPS INFORMATIVAS: 
-  + https://play.google.com/store/apps/details?id=cat.referendum
   + https://play.google.com/store/apps/details?id=com.referendum.uoctubre
+  + https://play.google.com/store/apps/details?id=cat.referendum
 
 ---
 
@@ -75,3 +75,4 @@ El dump ha sido creado con la herramienta `wget` y los links convertidos automá
 * https://independenciaCAT.github.io/referendum_cat_mirror/index.html
 * http://www.marianorajoy.cat
 * http://october1.azurewebsites.net/
+* http://marianopringao.ml
