@@ -73,6 +73,6 @@ El dump ha sido creado con la herramienta `wget` y los links convertidos automá
 * http://referendum.forabits.com/
 * http://referendum.mabelrodriguez.cat/
 * https://independenciaCAT.github.io/referendum_cat_mirror/index.html
-* http://www.marianorajoy.cat
+* [BLOQUEADO / OFFLINE] http://www.marianorajoy.cat
 * http://october1.azurewebsites.net/
 * http://marianopringao.ml
