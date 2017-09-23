@@ -11,6 +11,7 @@ El dump ha sido creado con la herramienta `wget` y los links convertidos automá
 
 ### Lista de mirrors
 
+* ON VOTAR: https://gateway.ipfs.io/ipns/QmZxWEBJBVkGDGaKdYPQUXX4KC5TCWbvuR4iYZrTML8XCR/on-votar/index.html
 * MIRROR EN TOR: http://referykkmr36j4hs.onion/mirror/www.ref1oct.eu/<br>
 * APPS INFORMATIVAS: 
   + https://play.google.com/store/apps/details?id=com.referendum.uoctubre
@@ -76,3 +77,5 @@ El dump ha sido creado con la herramienta `wget` y los links convertidos automá
 * [BLOQUEADO / OFFLINE] http://www.marianorajoy.cat
 * http://october1.azurewebsites.net/
 * http://marianopringao.ml
+* https://gateway.ipfs.io/ipns/QmZxWEBJBVkGDGaKdYPQUXX4KC5TCWbvuR4iYZrTML8XCR/on-votar/index.html
+
