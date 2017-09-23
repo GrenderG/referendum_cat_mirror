@@ -9,9 +9,16 @@ El dump ha sido creado con la herramienta `wget` y los links convertidos automá
 
 ---
 
-### Lista de mirrors
+## Última versió "On Votar" https://github.com/onvotar/onvotar.github.io
+* IPFS: https://gateway.ipfs.io/ipns/QmZxWEBJBVkGDGaKdYPQUXX4KC5TCWbvuR4iYZrTML8XCR/
+* Github: https://onvotar.github.io/
+* Tor Link: http://7jwbvjhh4on2s53l.onion.link/
+* Tor: http://7jwbvjhh4on2s53l.onion/
 
-* ON VOTAR: https://gateway.ipfs.io/ipns/QmZxWEBJBVkGDGaKdYPQUXX4KC5TCWbvuR4iYZrTML8XCR/on-votar/index.html
+---
+
+## Versions anteriors
+### Lista de mirrors
 * MIRROR EN TOR: http://referykkmr36j4hs.onion/mirror/www.ref1oct.eu/<br>
 * APPS INFORMATIVAS: 
   + https://play.google.com/store/apps/details?id=com.referendum.uoctubre
