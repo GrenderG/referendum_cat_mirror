@@ -1,0 +1,145 @@
+#menu-wrap {
+  width: 100%;
+  height: 30px;
+  position: relative;
+  z-index: 100;
+  /* remove all the bullets, borders and padding from the default list styling */
+  /* style the table so that it takes no ppart in the layout - required for IE to work */
+}
+#menu-wrap ul {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+  /* float the list to make it horizontal and a relative positon so that you can control the dropdown menu positon */
+  /* style the links for the top level */
+  /* make the second level visible when hover on first level list OR link */
+}
+#menu-wrap ul li {
+  float: left;
+  position: relative;
+}
+#menu-wrap ul a,
+#menu-wrap ul a:visited {
+  display: block;
+  line-height: 30px;
+  padding-left: 10px;
+  padding-right: 20px;
+}
+#menu-wrap ul ul {
+  /* hide the sub levels and give them a positon absolute so that they take up no room */
+  visibility: hidden;
+  position: absolute;
+  height: 0;
+  top: 30px;
+  left: 0;
+  width: 149px;
+  /* style the second level links */
+}
+#menu-wrap ul ul li {
+  width: 100%;
+}
+#menu-wrap ul ul a,
+#menu-wrap ul ul a:visited {
+  border: 0;
+  height: auto;
+  line-height: 15px;
+  padding: 5px 10px;
+  width: 150px;
+}
+#menu-wrap ul li:hover ul,
+#menu-wrap ul a:hover ul {
+  visibility: visible;
+}
+#menu-wrap li,
+#menu-wrap a,
+#menu-wrap div {
+  padding: 0;
+  margin: 0;
+}
+#menu-wrap li.section {
+  line-height: 25px;
+  padding-left: 10px;
+  padding-right: 11px;
+}
+#menu-wrap li.selected_page {
+  line-height: 20px;
+}
+#menu-wrap li.selected_subpage {
+  line-height: 25px;
+  padding-left: 10px;
+  padding-right: 11px;
+}
+#menu-wrap li.selected_subpage a,
+#menu-wrap li.selected_subpage a:visited {
+  padding-right: 0;
+  padding-left: 0;
+}
+#menu-wrap table {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-collapse: collapse;
+}
+
+/* hack to correct IE5.5 faulty box model */
+* html #menu-wrap {
+  width: 100%;
+  w\idth: 100%;
+}
+
+/* a hack so that IE5.5 faulty box model is corrected */
+* html #menu-wrap a, * html #menu-wrap a:visited {
+  width: 10px;
+  w\idth: 10px;
+  padding-right: 20px;
+  white-space: nowrap;
+}
+
+/* another hack for IE5.5 */
+* html #menu-wrap ul ul {
+  top: 30px;
+  t\op: 30px;
+}
+
+/* yet another hack for IE5.5 */
+* html #menu-wrap ul ul a, * html #menu-wrap ul ul a:visited {
+  width: 150px;
+  w\idth: 128px;
+}
+
+.cms-nav-clearit {
+  clear: both;
+  height: 0;
+  line-height: 0.0;
+  font-size: 0;
+}
+
+.cms-nav-sub-section {
+  font-weight: bold;
+  font-size: 110%;
+  list-style-type: none;
+}
+
+ul li.cms-nav-sub-section:before {
+  content: '' !important;
+}
+
+.cms-nav-sidebar ul, .cms-nav-sidebar li, .cms-nav-sidebar a {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.cms-nav-sidebar ul ul,
+.cms-nav-sidebar ul li,
+.cms-nav-sidebar ul a, .cms-nav-sidebar li ul,
+.cms-nav-sidebar li li,
+.cms-nav-sidebar li a, .cms-nav-sidebar a ul,
+.cms-nav-sidebar a li,
+.cms-nav-sidebar a a {
+  padding: 0;
+  margin: 0;
+}
+.cms-nav-sidebar ul li, .cms-nav-sidebar li li, .cms-nav-sidebar a li {
+  position: relative;
+  margin: 4px 8px 2px 8px;
+}
