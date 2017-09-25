@@ -12,7 +12,7 @@ El dump ha sido creado con la herramienta `wget` y los links convertidos automá
 ### Lista de mirrors
 
 * MIRROR EN TOR: http://referykkmr36j4hs.onion/mirror/www.ref1oct.eu/<br>
-* APPS INFORMATIVAS: 
+* APPS INFORMATIVAS:
   + https://play.google.com/store/apps/details?id=com.referendum.uoctubre
   + https://play.google.com/store/apps/details?id=cat.referendum
 
@@ -76,3 +76,22 @@ El dump ha sido creado con la herramienta `wget` y los links convertidos automá
 * [BLOQUEADO / OFFLINE] http://www.marianorajoy.cat
 * http://october1.azurewebsites.net/
 * http://marianopringao.ml
+
+---
+
+### Com fer-se una copia en local de la bbdd per saber on votar.
+
+
+1. Instalar el node: https://nodejs.org/en/
+2. Instalar el git: https://git-scm.com/
+3. Clonar-se el repositori:
+       Des de la linea de comandes:
+       `clone https://github.com/jbaylina/referendum_cat_mirror.git`
+4. Instal·lar un servidor web basic: `npm install http-server`
+5. Anar a l'arrel del repositori: `cd referendum_cat_mirror`
+6. Arrancar el servidor des del directori clonat: `http-server`
+7. Accedir des del browser a http://127.0.0.1:8080
+
+
+Els punts del 1 al 4 s'han de fer una vegada i es necessita internet.
+Els punts 5,6 i 7 es poden fer sense conexio a internet.
