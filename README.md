@@ -83,13 +83,13 @@ El dump ha sido creado con la herramienta `wget` y los links convertidos automá
 ### Com fer-se una copia en local de la bbdd per saber on votar.
 
 
-1. Instalar el node: https://nodejs.org/en/
-2. Instalar el git: https://git-scm.com/
+1. Instalar el node.js : https://nodejs.org/en/
+2. Instalar el git : https://git-scm.com/
 3. Clonar-se el repositori:
        Des de la linea de comandes:
-       `clone https://github.com/jbaylina/referendum_cat_mirror.git`
+       `git clone https://github.com/jbaylina/referendum_cat_mirror.git`
 4. Instal·lar un servidor web basic: `npm install -g http-server`
-5. Anar a l'arrel del repositori: `cd referendum_cat_mirror`
+5. Anar a l'arrel del repositori que s'ha baixat: `cd referendum_cat_mirror`
 6. Arrancar el servidor des del directori clonat: `http-server`
 7. Accedir des del browser a http://127.0.0.1:8080
 
