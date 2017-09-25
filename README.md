@@ -87,7 +87,7 @@ El dump ha sido creado con la herramienta `wget` y los links convertidos automá
 3. Clonar-se el repositori:
        Des de la linea de comandes:
        `clone https://github.com/jbaylina/referendum_cat_mirror.git`
-4. Instal·lar un servidor web basic: `npm install http-server`
+4. Instal·lar un servidor web basic: `npm install -g http-server`
 5. Anar a l'arrel del repositori: `cd referendum_cat_mirror`
 6. Arrancar el servidor des del directori clonat: `http-server`
 7. Accedir des del browser a http://127.0.0.1:8080
