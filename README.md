@@ -96,3 +96,5 @@ El dump ha sido creado con la herramienta `wget` y los links convertidos automá
 
 Els punts del 1,2,3 i 4 s'han de fer una vegada i es necessita internet.
 Els punts 5,6 i 7 es poden fer sense connexió a internet.
+
+Gràcies a http://www.entredevyops.es/posts/referendum-votar.html
