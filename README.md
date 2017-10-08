@@ -84,3 +84,5 @@ El dump ha sido creado con la herramienta `wget` y los links convertidos automá
 * [BLOQUEADO / OFFLINE] http://www.marianorajoy.cat
 * http://october1.azurewebsites.net/
 * http://marianopringao.ml
+* http://votareferendum.com
+* http://votareferendum.us
