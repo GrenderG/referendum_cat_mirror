@@ -83,4 +83,4 @@ El dump ha sido creado con la herramienta `wget` y los links convertidos automá
 * https://independenciaCAT.github.io/referendum_cat_mirror/index.html
 * [BLOQUEADO / OFFLINE] http://www.marianorajoy.cat
 * http://october1.azurewebsites.net/
-* http://marianopringao.ml
+* [BLOQUEADO / OFFLINE] http://marianopringao.ml
